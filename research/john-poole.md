@@ -1,4 +1,10 @@
-John Poole 
+2 well researched people in which a bunch of duplicates were generated:
+https://www.familysearch.org/tree/person/details/G9Q5-3P5
+https://www.familysearch.org/tree/person/details/G9QG-2DY
+
+
+
+## John Poole 
 
 There seem to be a bunch of duplicates of this person. 
 
@@ -25,7 +31,7 @@ https://www.familysearch.org/tree/person/research-help/MMP6-4LG
 
 
 
-Sarah Poole (husband of John Poole)
+## Sarah Poole (husband of John Poole)
 
 https://www.familysearch.org/tree/person/research-help/MMP6-4GD
 
