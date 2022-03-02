@@ -1,3 +1,13 @@
+# todo
+
+- Map out the tree of people and the pooles that are really researched
+- Isolate the SCC's of erroneous john's and sarah's that were generated
+- **Check the records used to generate each SCC to see if match the current researched tree of people john and sarah poole**
+  - Merge any duplicates, or delete persons
+
+
+
+
 2 well researched people in which a bunch of duplicates were generated:
 https://www.familysearch.org/tree/person/details/G9Q5-3P5
 https://www.familysearch.org/tree/person/details/G9QG-2DY
