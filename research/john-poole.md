@@ -1,9 +1,8 @@
 # todo
 
-- Map out the tree of people and the pooles that are really researched
-- Isolate the SCC's of erroneous john's and sarah's that were generated
-- **Check the records used to generate each SCC to see if match the current researched tree of people john and sarah poole**
-  - Merge any duplicates, or delete persons
+-  **Check the sources to generate each person, and if it doesn't match a current person in familysearch, update the information.**
+  - Figure out how to check what things a source is attached to.
+- Merge any duplicates, or delete persons
 
 
 
@@ -12,7 +11,7 @@
 https://www.familysearch.org/tree/person/details/G9Q5-3P5
 https://www.familysearch.org/tree/person/details/G9QG-2DY
 
-
+These two people are not even attached or considered duplicates to the ones below. It seems to me that the way to resolve all these bad duplicates are to go directly to the sources. So, I need to find if I can see who these sources are attached to or not. 
 
 ## John Poole 
 
