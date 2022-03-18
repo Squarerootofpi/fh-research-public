@@ -3,6 +3,7 @@
 -  **Check the sources to generate each person, and if it doesn't match a current person in familysearch, update the information.**
   - Figure out how to check what things a source is attached to.
     - I asked the question on familysearch 17 Mar 2022
+    - [Answered same day](https://community.familysearch.org/en/discussion/comment/436700#Comment_436700)
 - Merge any duplicates, or delete persons
 
 
