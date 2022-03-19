@@ -18,19 +18,24 @@ These two people are not even attached or considered duplicates to the ones belo
 ## John Poole 
 
 There seem to be a bunch of duplicates of this person. 
-John: 
-|  john pid | sarah pid  | record  | event year  |   |
-|---|---|---|---|---|
-MMP6-4LG |  |  |  | 
-MMRC-719 |  |  | 
-MMP4-27L |  |  | 
-MMTC-PCN |  |  | 
-MMYH-TB9 |  |  | 
-M9SL-4TH |  |  | 
-M9M1-5QY* |  |  | 
-M99L-498 |  |  | 
-MMGV-DMY |  |  | 
-MM53-8F7 |  |  | 
+It was created by familysearch christening records in 2012, and I just have to figure out the info for each of the sources. Essentially, there is a log for a christening for a child, and each mom/dad/child combination was created in familysearch for this record. 
+
+Some of the records seem to have Pool rather than Pool**e**. Pooles without E's. 
+
+This table is ordered by the year or christening. 
+
+|  john pid | sarah pid  | record  | event year  | Child | Notes |
+|---|---|---|---|---|---|
+MM53-8F7 |  | https://www.familysearch.org/ark:/61903/1:1:JQ2L-T96 | 1840 | George Poole | 
+MMP4-27L |  | https://www.familysearch.org/ark:/61903/1:1:NLJN-QYD | 1943 | Amelia Pool | 
+MMTC-PCN |  | https://www.familysearch.org/ark:/61903/1:1:NLJJ-MK3 | 1844 | John Pool | 
+MMGV-DMY |  | https://www.familysearch.org/ark:/61903/1:1:NLVT-226 | 1846/5 | Mary Ann Poole | 
+MMYH-TB9 |  | https://www.familysearch.org/ark:/61903/1:1:JW7W-5X1 | 1847 | Prudence Pool | 
+M99L-498 |  | https://www.familysearch.org/ark:/61903/1:1:NLVB-XZ9 | 1849 | Ann Poole | 
+M9SL-4TH |  | https://www.familysearch.org/ark:/61903/1:1:NLVB-LWY | 1851 | Joseph Poole | 
+MMRC-719 |  | https://www.familysearch.org/ark:/61903/1:1:NLVY-H2G | 1852 | Eliza Pool | 
+MMP6-4LG |  | https://www.familysearch.org/ark:/61903/1:1:JW7W-LR8 | 1854 | Emma Poole | 
+M9M1-5QY* | n/a | n/a | n/a | n/a | This person seems to be a floater and could be deleted... |
 
 *M9M1-5QY is the only one that doesn't have any sources, and has some of my collaboration notes on it. 
 
