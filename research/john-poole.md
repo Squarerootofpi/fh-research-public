@@ -9,7 +9,7 @@
 
 
 
-2 well researched people in which a bunch of duplicates were generated:
+2 well researched people in which a bunch of duplicates seem to be similar to:
 https://www.familysearch.org/tree/person/details/G9Q5-3P5
 https://www.familysearch.org/tree/person/details/G9QG-2DY
 
