@@ -27,7 +27,7 @@ This table is ordered by the year or christening.
 |  john pid | sarah pid  | record  | event year  | Child | Notes |
 |---|---|---|---|---|---|
 MM53-8F7 |  | https://www.familysearch.org/ark:/61903/1:1:JQ2L-T96 | 1840 | George Poole | 
-MMP4-27L |  | https://www.familysearch.org/ark:/61903/1:1:NLJN-QYD | 1943 | Amelia Pool | 
+MMP4-27L |  | https://www.familysearch.org/ark:/61903/1:1:NLJN-QYD | 1843 | Amelia Pool | 
 MMTC-PCN |  | https://www.familysearch.org/ark:/61903/1:1:NLJJ-MK3 | 1844 | John Pool | 
 MMGV-DMY |  | https://www.familysearch.org/ark:/61903/1:1:NLVT-226 | 1846/5 | Mary Ann Poole | 
 MMYH-TB9 |  | https://www.familysearch.org/ark:/61903/1:1:JW7W-5X1 | 1847 | Prudence Pool | 
