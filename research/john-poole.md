@@ -4,6 +4,10 @@
   - Figure out how to check what things a source is attached to.
     - I asked the question on familysearch 17 Mar 2022
     - [Answered same day](https://community.familysearch.org/en/discussion/comment/436700#Comment_436700)
+- Figure out if there are people who have matching children and have the names joseph and sarah as their parents in the same time frame (#linkrecords)
+  - Searches: 
+    - https://www.familysearch.org/search/tree/results?count=20&q.anyDate.from=1800&q.anyDate.to=1900&q.anyPlace=St%20Leonard%27s%2C%20Shoreditch%2C%20London%2C%20England%2C%20United%20Kingdom&q.givenName=joseph&q.givenName.exact=on&q.spouseGivenName.1=Sarah&q.spouseGivenName.exact.1=on&q.surname=poole
+      - only 2000 results! :D 
 - Merge any duplicates, or delete persons
 
 
