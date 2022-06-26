@@ -28,6 +28,9 @@ Some of the records seem to have Pool rather than Pool**e**. Pooles without E's.
 
 This table is ordered by the year or christening. 
 
+Here is a spreadsheet though that shows this a bit better. 
+https://docs.google.com/spreadsheets/d/1DH8EBze_3wuO6qrn-d8ZvI1aUBqS5Dt4ACpzVir-AH8/edit#gid=0
+
 |  john pid | sarah pid  | record  | event year  | Child | Notes |
 |---|---|---|---|---|---|
 MM53-8F7 |  | https://www.familysearch.org/ark:/61903/1:1:JQ2L-T96 | 1840 | George Poole | 
